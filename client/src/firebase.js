@@ -15,7 +15,7 @@ import { initializeApp } from 'firebase/app'
 // }
 
 const firebaseConfig = {
- VITE_FIREBASE_API_KEY: import.meta.env.VITE_FIREBASE_API_KEY,
+ VITE_FIREBASE_API_KEY: 'AIzaSyAtQMTboWSxINc7gYks5ftYRSwKKTLJbRE',
  authDomain: 'mern-blog-8030f.firebaseapp.com',
  projectId: 'mern-blog-8030f',
  storageBucket: 'mern-blog-8030f.firebasestorage.app',
